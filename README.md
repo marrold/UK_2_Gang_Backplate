@@ -6,13 +6,13 @@ The middle cut out is fairly specific to my use case but you can always resize i
 
 ## Images
 
-Front:
+Front:  
 <img src="images/UK_2_Gang_Backplate_Front.jpg" width="400">
 
-Rear:
+Rear:  
 <img src="images/UK_2_Gang_Backplate_Rear.jpg" width="400">
 
-SVG:
+SVG:  
 <img src="images/UK_2_Gang_Backplate_SVG.png" width="400">
 
 ## Licence
