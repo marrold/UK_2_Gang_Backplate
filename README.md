@@ -1,8 +1,19 @@
-# UK_2_Gang_Backplate
+# UK 2 Gang Backplate
 
 A backplate for mounting a UK 2 Gang accessory when a dry lining box isn't suitable. In my case I wanted to mount a 4 port network face plate to a thin plastic box. Acrylic isn't particularly fireproof, so it might not be a good choice for mains voltage accessories. 
 
+The middle cut out is fairly specific to my use case but you can always resize it or remove it entirely.
+
 ## Images
+
+Front:
+<img src="images/UK_2_Gang_Backplate_Front.jpg" width="400">
+
+Rear:
+<img src="images/UK_2_Gang_Backplate_Rear.jpg" width="400">
+
+SVG:
+<img src="images/UK_2_Gang_Backplate_SVG.jpg" width="400">
 
 ## Licence
 
