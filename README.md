@@ -13,7 +13,7 @@ Rear:
 <img src="images/UK_2_Gang_Backplate_Rear.jpg" width="400">
 
 SVG:
-<img src="images/UK_2_Gang_Backplate_SVG.jpg" width="400">
+<img src="images/UK_2_Gang_Backplate_SVG.png" width="400">
 
 ## Licence
 
